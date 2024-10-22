@@ -1,2 +1,4 @@
-# mysql---python---flask
-pPython course for web
+# mysql-python-flask
+Python for web
+
+CRUD Application created in python and its framework Flask
